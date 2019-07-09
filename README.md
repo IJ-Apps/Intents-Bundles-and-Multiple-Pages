@@ -22,6 +22,6 @@ For more cool and complex projects using tools such as the Microsoft Face API, K
 
 <div align = "center" width="100%">
    
-[<img src="https://github.com/IJ-Apps/Intents-Bundles-and-Multiple-Pages/blob/master/Video%20Thumbnail.PNG" width="70%">](https://www.youtube.com/watch?v=efY_P8mKUdA "Multiple Activities with Intents and Bundles")
+[<img src="https://github.com/IJ-Apps/Intents-Bundles-and-Multiple-Pages/blob/master/Video%20Thumbnail.PNG" width="80%">](https://www.youtube.com/watch?v=efY_P8mKUdA "Multiple Activities with Intents and Bundles")
    
    </div>
