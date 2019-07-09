@@ -20,6 +20,8 @@ For more cool and complex projects using tools such as the Microsoft Face API, K
 
 ## Click the image to view the video
 
-<div align = "center">
+<div align = "center" width="100%">
+   
 [<img src="https://github.com/IJ-Apps/Images-and-Sounds/blob/master/Adding%20Sound%20to%20your%20App.jpg" width="70%">](https://www.youtube.com/watch?v=efY_P8mKUdA "Multiple Activities with Intents and Bundles")
+   
    </div>
