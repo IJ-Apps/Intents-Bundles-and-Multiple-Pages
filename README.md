@@ -1,8 +1,7 @@
 # Intents-Bundles-and-Multiple-Pages
 This repository contains the code for my video called [*"Multiple Activities with Intents and Bundles."*](https://www.youtube.com/watch?v=efY_P8mKUdA) Feel free to copy and paste the code for your own use and subscribe to the [**IJ Apps channel**](https://www.youtube.com/channel/UCLQUpH7SdkAXAeK6jeeF8zg)!
 
-- **Video Links:**
-   - [*"Multiple Activities with Intents and Bundles"*](https://www.youtube.com/watch?v=efY_P8mKUdA)
+- **Video Link:** [*"Multiple Activities with Intents and Bundles"*](https://www.youtube.com/watch?v=efY_P8mKUdA)
 - **Subscribe to IJ Apps:** [**IJ Apps YouTube Channel**](https://www.youtube.com/channel/UCLQUpH7SdkAXAeK6jeeF8zg)
 
 -----
@@ -21,4 +20,6 @@ For more cool and complex projects using tools such as the Microsoft Face API, K
 
 ## Click the image to view the video
 
-[<img align = "left" src="https://github.com/IJ-Apps/Images-and-Sounds/blob/master/Adding%20Sound%20to%20your%20App.jpg" width="47%">](https://www.youtube.com/watch?v=efY_P8mKUdA "Multiple Activities with Intents and Bundles")
+<div align = "center">
+[<img src="https://github.com/IJ-Apps/Images-and-Sounds/blob/master/Adding%20Sound%20to%20your%20App.jpg" width="70%">](https://www.youtube.com/watch?v=efY_P8mKUdA "Multiple Activities with Intents and Bundles")
+   </div>
