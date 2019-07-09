@@ -1,7 +1,7 @@
 # Intents-Bundles-and-Multiple-Pages
-This repository contains the code for my video called [*"Multiple Activities with Intents and Bundles."*](https://youtu.be/fnS962yF44Q) Feel free to copy and paste the code for your own use and subscribe to the [**IJ Apps channel**](https://www.youtube.com/channel/UCLQUpH7SdkAXAeK6jeeF8zg)!
+This repository contains the code for my video called [*"Multiple Activities with Intents and Bundles."*](https://www.youtube.com/watch?v=fnS962yF44Q) Feel free to copy and paste the code for your own use and subscribe to the [**IJ Apps channel**](https://www.youtube.com/channel/UCLQUpH7SdkAXAeK6jeeF8zg)!
 
-- **Video Link:** [*"Multiple Activities with Intents and Bundles"*](https://youtu.be/fnS962yF44Q)
+- **Video Link:** [*"Multiple Activities with Intents and Bundles"*](https://www.youtube.com/watch?v=fnS962yF44Q)
 - **Subscribe to IJ Apps:** [**IJ Apps YouTube Channel**](https://www.youtube.com/channel/UCLQUpH7SdkAXAeK6jeeF8zg)
 
 -----
@@ -22,6 +22,6 @@ For more cool and complex projects using tools such as the Microsoft Face API, K
 
 <div align = "center" width="100%">
    
-[<img src="https://github.com/IJ-Apps/Intents-Bundles-and-Multiple-Pages/blob/master/Video%20Thumbnail.PNG" width="80%">](https://youtu.be/fnS962yF44Q "Multiple Activities with Intents and Bundles")
+[<img src="https://github.com/IJ-Apps/Intents-Bundles-and-Multiple-Pages/blob/master/Video%20Thumbnail.PNG" width="80%">](https://www.youtube.com/watch?v=fnS962yF44Q "Multiple Activities with Intents and Bundles")
    
    </div>
